@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ayan-Pramanik
+- 👀 I’m interested in ...Hacking
+- 🌱 I’m currently learning ...React
+- 💞️ I’m looking to collaborate on ...Bug Bounty Learning
+- 📫 How to reach me ...ayanpramanik2863@gmail.com
