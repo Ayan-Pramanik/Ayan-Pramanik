@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @Ayan-Pramanik
-- 👀 I’m interested in ...Hacking
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...Bug Bounty Learning
-- 📫 How to reach me ...ayanpramanik2863@gmail.com
+┌───────────────────────────────────────────────┐
+│  Ayan Pramanik                                │
+│  Cybersecurity | SOC | Blue Team | Automation │
+│                                               │
+│  🎓 Master of IT — Cybersecurity              │
+│  🛡️ SOC / Security Operations                 │
+│  🐍 Python Security Automation                │
+│  🌐 Networking / Windows / AD                 │
+│                                               │
+│  FEATURED PROJECTS                            │
+│                                               │
+│  🛡️ Home SOC Lab                              │
+│  🔎 Threat Hunting Lab                        │
+│  🚨 Incident Response Case                    │
+│  🌐 Network Security Monitoring               │
+│  🔬 Digital Forensics                         │
+│  🤖 IOC Investigation Toolkit                 │
+└───────────────────────────────────────────────┘
