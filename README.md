@@ -48,4 +48,4 @@ Python | JavaScript | TypeScript
 
 ## 📫 Connect
 
-LinkedIn: ...
+[LinkedIn](https://github.com/Ayan-Pramanik)
